@@ -11,3 +11,4 @@ langserve
 fastapi
 uvicorn
 chromadb
+langchain-community
